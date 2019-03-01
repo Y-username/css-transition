@@ -1,0 +1,14 @@
+a {
+  color: #e84610;
+  font-size: 16px;
+  text-decoration: none;
+  transition-property: color;
+  transition-duration: 1s;
+  transition-timing-function: linear;
+}
+
+a:hover {
+    color: black;
+}
+
+/*you can put all the color 1s ease-in-out all in a transition property*/
